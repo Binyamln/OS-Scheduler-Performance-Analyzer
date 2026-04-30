@@ -79,8 +79,5 @@ Then open `http://localhost:5173` in your browser.
 npm run build
 ```
 
-The built files will be in the `dist/` directory.
-
----
 
 **Built with curiosity and caffeine by Binyamin**
