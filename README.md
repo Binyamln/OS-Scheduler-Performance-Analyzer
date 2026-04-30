@@ -78,6 +78,3 @@ Then open `http://localhost:5173` in your browser.
 ```bash
 npm run build
 ```
-
-
-**Built with curiosity and caffeine by Binyamin**
