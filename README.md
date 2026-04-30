@@ -2,8 +2,6 @@
 
 A desktop tool I built as a side project to simulate how an operating system schedules tasks and manages resources (CPU, memory, I/O).
 
-**By Binyamin**
-
 ---
 
 ## About This Project
